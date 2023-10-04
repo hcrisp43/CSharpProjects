@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectUniqueName": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
       "projectName": "SimpleCalculator",
-      "projectPath": "D:\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
+      "projectPath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
       "packagesPath": "C:\\Users\\hcris\\.nuget\\packages\\",
-      "outputPath": "D:\\CSharpProjects\\SimpleCalculator\\obj\\",
+      "outputPath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

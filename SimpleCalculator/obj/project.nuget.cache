@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ReYuPok1vf9yIio4vQz9HLxKnXo2m8IRdvTgpy5vMJLQLSDXGCtpneXXorCu4tCkptbwAewFu24VVwLAn0QqpA==",
+  "dgSpecHash": "F4qEWhuEONeQfMATMesqz63Pqp9OdhaH9jI7Azmeeb+/rdouYcD/B5MGLGUyCfYVic2zS9hMwX6y3He4HEDqBg==",
   "success": true,
-  "projectFilePath": "D:\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
+  "projectFilePath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
