@@ -18,7 +18,6 @@ D:\CSharpProjects\CSharpProjects\SimpleCalculator\bin\Debug\net6.0\SimpleCalcula
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.runtimeconfig.json
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.dll
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\bin\Debug\net6.0\SimpleCalculator.pdb
-D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.csproj.AssemblyReference.cache
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfoInputs.cache
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.AssemblyInfo.cs
@@ -28,3 +27,4 @@ D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\refint\Simple
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.pdb
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.genruntimeconfig.cache
 D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\ref\SimpleCalculator.dll
+D:\CSharpProjects\CSharpProjects\SimpleCalculator\obj\Debug\net6.0\SimpleCalculator.sourcelink.json

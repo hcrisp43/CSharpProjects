@@ -10,27 +10,27 @@ secondInput = int.Parse(Console.ReadLine());
 Console.WriteLine("What do you want to do?\n [A]dd\n [S]ubtract\n [M]ultiply");
 userChoice = Console.ReadLine();
 
-calculate(userChoice);
+if (choiceCompare(userChoice, "A"))
+{
+    Console.WriteLine($"{firstInput} + {secondInput} = {firstInput + secondInput}");
+}
+else if (choiceCompare(userChoice, "S"))
+{
+    Console.WriteLine($"{firstInput} - {secondInput} = {firstInput - secondInput}");
+}
+else if (choiceCompare(userChoice, "M"))
+{
+    Console.WriteLine($"{firstInput} * {secondInput} = {firstInput * secondInput}");
+}
+else
+{
+    Console.WriteLine("Invalid option");
+}
 
 Console.WriteLine("Press any key to close");
 Console.ReadKey();
 
-void calculate(string choice)
+ bool choiceCompare(string a, string b)
 {
-    if(choice == "a" || choice == "A")
-    {
-        Console.WriteLine(firstInput + " " + secondInput + " = " + (firstInput + secondInput));
-    }
-    else if(choice == "s" || choice == "S")
-    {
-        Console.WriteLine(firstInput + " - " + secondInput + " = " + (firstInput - secondInput));
-    }
-    else if(choice == "m" || choice == "M")
-    {
-        Console.WriteLine(firstInput + " * " + secondInput + " = " + (firstInput * secondInput));
-    }
-    else
-    {
-        Console.WriteLine("Invalid option");
-    }
+    return a.ToUpper() == b.ToUpper();
 }

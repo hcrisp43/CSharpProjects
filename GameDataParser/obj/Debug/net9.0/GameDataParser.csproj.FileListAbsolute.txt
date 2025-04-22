@@ -1,0 +1,15 @@
+D:\CSharpProjects\CSharpCourse\GameDataParser\bin\Debug\net9.0\GameDataParser.exe
+D:\CSharpProjects\CSharpCourse\GameDataParser\bin\Debug\net9.0\GameDataParser.deps.json
+D:\CSharpProjects\CSharpCourse\GameDataParser\bin\Debug\net9.0\GameDataParser.runtimeconfig.json
+D:\CSharpProjects\CSharpCourse\GameDataParser\bin\Debug\net9.0\GameDataParser.dll
+D:\CSharpProjects\CSharpCourse\GameDataParser\bin\Debug\net9.0\GameDataParser.pdb
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.AssemblyInfoInputs.cache
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.AssemblyInfo.cs
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.sourcelink.json
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.dll
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\refint\GameDataParser.dll
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.pdb
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\GameDataParser.genruntimeconfig.cache
+D:\CSharpProjects\CSharpCourse\GameDataParser\obj\Debug\net9.0\ref\GameDataParser.dll

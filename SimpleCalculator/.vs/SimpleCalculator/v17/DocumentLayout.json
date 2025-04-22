@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB9C69F-193D-47B6-B07A-DA0C0AF4130E}|SimpleCalculator.csproj|d:\\csharpprojects\\csharpprojects\\simplecalculator\\simplecaclulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB9C69F-193D-47B6-B07A-DA0C0AF4130E}|SimpleCalculator.csproj|solutionrelative:simplecaclulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleCaclulator.cs",
+              "DocumentMoniker": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCaclulator.cs",
+              "RelativeDocumentMoniker": "SimpleCaclulator.cs",
+              "ToolTip": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCaclulator.cs",
+              "RelativeToolTip": "SimpleCaclulator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-04T15:03:21.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

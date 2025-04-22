@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj": {}
+    "D:\\CSharpProjects\\CSharpCourse\\SimpleCalculator\\SimpleCalculator.csproj": {}
   },
   "projects": {
-    "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj": {
+    "D:\\CSharpProjects\\CSharpCourse\\SimpleCalculator\\SimpleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectUniqueName": "D:\\CSharpProjects\\CSharpCourse\\SimpleCalculator\\SimpleCalculator.csproj",
         "projectName": "SimpleCalculator",
-        "projectPath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\SimpleCalculator.csproj",
+        "projectPath": "D:\\CSharpProjects\\CSharpCourse\\SimpleCalculator\\SimpleCalculator.csproj",
         "packagesPath": "C:\\Users\\hcris\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharpProjects\\CSharpProjects\\SimpleCalculator\\obj\\",
+        "outputPath": "D:\\CSharpProjects\\CSharpCourse\\SimpleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
